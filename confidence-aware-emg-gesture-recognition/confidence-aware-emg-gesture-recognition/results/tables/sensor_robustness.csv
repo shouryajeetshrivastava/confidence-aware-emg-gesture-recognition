@@ -1,0 +1,7 @@
+condition,model,macro_f1
+Clean,Gradient Boosting,0.9617005832763453
+Clean,Proposed Hybrid,0.9637524611027241
+One sensor missing,Gradient Boosting,0.8368981765043282
+One sensor missing,Proposed Hybrid,0.834115876784505
+Two sensors missing,Gradient Boosting,0.7253993786792513
+Two sensors missing,Proposed Hybrid,0.7245587525851659
