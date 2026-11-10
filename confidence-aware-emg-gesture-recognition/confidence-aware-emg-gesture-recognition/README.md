@@ -29,4 +29,4 @@ The notebook exports CSV tables and PNG figures to `results/`. Selected outputs 
 - `results/tables/` — evaluation and ablation summaries
 - `data/` — put the original CSVs here (not redistributed)
 
-**Evaluation scope:** EMG-4 comprises four gestures recorded from one wearer. Recording boundaries are approximated using contiguous blocks; reported results are from offline evaluation and do not establish cross-user or real-time performance.
+**Evaluation scope:** EMG-4 comprises four gestures recorded from one wearer. Recording boundaries are approximated using contiguous blocks; 
